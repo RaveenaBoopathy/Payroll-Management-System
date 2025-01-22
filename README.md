@@ -32,16 +32,6 @@ The **Payroll Management System** is a fully functional Java application that he
 - **Leave Management**: Manage employee leave data (Add, Update, Delete).
 - **Pay Slip Generation**: Generate and print pay slips for employees.
 
-## Getting Started
 
-### Step 1: Clone the Repository
-
-To get started, clone this repository to your local machine:
-
-```bash
-'git clone https://github.com/your-username/payroll-management-system.git'
-
-2. **Configure Database:**
-Set up MySQL database and update the application.properties file with your database configuration.
 
 
