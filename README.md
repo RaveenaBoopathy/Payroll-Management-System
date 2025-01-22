@@ -41,17 +41,7 @@ To get started, clone this repository to your local machine:
 ```bash
 'git clone https://github.com/your-username/payroll-management-system.git'
 
-### Step 2:Configure Database
-
-Set up MySQL database and update the DbConnection.java file with your database configuration.
-
-## Contributions
-
-Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
+2. **Configure Database:**
+Set up MySQL database and update the application.properties file with your database configuration.
 
 
